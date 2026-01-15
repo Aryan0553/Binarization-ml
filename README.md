@@ -1,5 +1,6 @@
 # Titanic Survival Prediction using Decision Tree & Discretization
 
+
 ## 📌 Project Overview
 This project demonstrates a complete machine learning workflow using the **Titanic dataset**, focusing on how **feature discretization** impacts model performance. A **Decision Tree Classifier** is trained on both raw and discretized features (`Age` and `Fare`) to compare accuracy and behavior.
 
