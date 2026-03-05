@@ -102,5 +102,4 @@ Feature engineering can significantly affect model behavior
 Discretization is useful for tree-based models
 Visualization aids better understanding of transformations
 Cross-validation provides reliable performance estimates
-
-
+.
